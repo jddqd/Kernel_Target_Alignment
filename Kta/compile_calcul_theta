@@ -1,0 +1,1 @@
+make -f make/calcul_theta.make

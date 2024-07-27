@@ -1,0 +1,6 @@
+cp Fichcom/train_SVM.com.omega Fichcom/train_SVM.com
+cp Fichcom/eval_SVM.com.omega Fichcom/eval_SVM.com
+cp Alpha/omega.alpha.init Alpha/omega.alpha
+cp Alpha/omega.alpha.init Save_alpha/omega.alpha
+chmod 700 Alpha/omega.alpha
+chmod 700 Save_alpha/omega.alpha
