@@ -2,7 +2,7 @@
 
 A wider documentation is available at Kta/Doc/KTA_doc.pdf
 
-This program aims to improve the performance of a M-SVM by using terget kernel alignment. It is applied here to a classification problem : predicting stereochemical variations along a protein sequence. Further information will be added when the article is published.
+This program aims to improve the performance of a M-SVM by using kernel target alignment. It is applied here to a classification problem : predicting stereochemical variations along a protein sequence. Further information will be added when the article is published.
 
 
 ## Bibliography :
